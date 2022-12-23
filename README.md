@@ -15,9 +15,9 @@
 |           Atoi        |           🟠        |                    ❌                    |            ✅            |           ❌      |
 |    Find the Index   |          🟠          |                    ❌                    |            ✅            |           ❌      |
 
-                   *🟢 -> EASY <br>
-                   *🟠 -> MEDIUM <br>
-                   *🔴 -> HARD <br>
+ *🟢 -> EASY <br>
+*🟠 -> MEDIUM <br>
+*🔴 -> HARD <br>
 
 
 
