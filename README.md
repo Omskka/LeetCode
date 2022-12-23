@@ -5,8 +5,7 @@
 |           Fibonacci     |           🟢           |                            ✅      |               ✅       |           ✅      |
 |           TwoSum        |          🟢             |                            ✅      |            ✅            |           ❌      |
 |           BinarySearch  |          🟢           |                              ✅       |            ✅            |        ❌         |
-|           Power of Two  |         🟢            |                                 ✅     |       ✅                 |      ✅           |          *🟢 -> EASY <br>
-                                                                                                                                                       *🟠 -> MEDIUM <br>                                                                                                                                                        *🔴 -> HARD <br>
+|           Power of Two  |         🟢            |                                 ✅     |       ✅                 |      ✅           |          
 |           Power of Three|         🟢            |                                   ✅   |               ✅         |          ✅       |
 |           Power of Four |         🟢           |                                 ✅       |               ✅         |           ✅      |
 |           FizzBuzz        |        🟢            |                    ❌                    |            ✅            |           ❌      |
@@ -15,6 +14,10 @@
 |  Search Insert Position    |        🟢            |                    ❌                    |            ✅            |           ❌      |
 |           Atoi        |           🟠        |                    ❌                    |            ✅            |           ❌      |
 |    Find the Index   |          🟠          |                    ❌                    |            ✅            |           ❌      |
+
+                   *🟢 -> EASY <br>
+                   *🟠 -> MEDIUM <br>
+                   *🔴 -> HARD <br>
 
 
 
