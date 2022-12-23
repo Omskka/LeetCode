@@ -1,6 +1,6 @@
 
 
-|    TITLE                |   DIFFICULTY        |          &nbsp;       JAVA      &nbsp;         | &nbsp;&nbsp;     C    &nbsp;&nbsp;   |      PYTHON     | &nbsp; C++ &nbsp; |
+|    TITLE                |   DIFFICULTY        |          &nbsp;       JAVA      &nbsp;         | &nbsp;&nbsp;&nbsp;     C    &nbsp;&nbsp;&nbsp;   |      PYTHON     | &nbsp; C++ &nbsp; |
 | :----------------------:|:-------------------:|:--------------------------:|:----------------------:|:---------------:| :-------------------------: |
 |           Fibonacci     |           🟢           |                            ✅      |               ✅       |           ✅      |       ❌    |
 |           TwoSum        |          🟢             |                            ✅      |            ✅            |           ❌      |     ❌  |
