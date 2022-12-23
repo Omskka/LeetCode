@@ -16,6 +16,6 @@
 |    Find the Index   |          🟠          |                    ❌                    |            ✅            |           ❌      |
 
 
-*🟢 -> EASY \t
-*🟠 -> MEDIUM\t
-*🔴 -> HARD\t
+*🟢 -> EASY <br>
+*🟠 -> MEDIUM <br>
+*🔴 -> HARD <br>
