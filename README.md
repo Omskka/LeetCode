@@ -14,6 +14,7 @@
 |  Search Insert Position |        🟢           |                    ❌              |            ✅            |           ❌      |      ❌      |
 |           Atoi          |           🟠        |                    ❌              |            ✅            |           ❌      |          ❌    |
 |    Find the Index       |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
+|    Rotate Array         |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
 
  *🟢 -> EASY <br>
 *🟠 -> MEDIUM <br>
