@@ -10,6 +10,7 @@
 |           Power of Three|         🟢          |                    ✅              |               ✅         |          ✅       |      ❌     |
 |           Power of Four |         🟢          |                    ✅              |               ✅         |           ✅      |       ❌    |
 |  Number of 1 Bits       |        🟢           |                    ✅              |            ✅            |           ❌      |      ❌      |
+|  Binary Number with Alternating Bits|        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |           FizzBuzz      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |  Palindrome Number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌     |
 |     Remove Element      |        🟢           |                    ❌              |            ✅            |           ❌      |        ❌    |
