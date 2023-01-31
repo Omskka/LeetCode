@@ -13,9 +13,11 @@
 |  Palindrome Number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌     |
 |     Remove Element      |        🟢           |                    ❌              |            ✅            |           ❌      |        ❌    |
 |  Search Insert Position |        🟢           |                    ❌              |            ✅            |           ❌      |      ❌      |
+|  Number of 1 Bits       |        🟢           |                    ❌              |            ✅            |           ❌      |      ❌      |
 |           Atoi          |           🟠        |                    ❌              |            ✅            |           ❌      |          ❌    |
 |    Find the Index       |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
 |    Rotate Array         |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
+
 
  *🟢 -> EASY <br>
 *🟠 -> MEDIUM <br>
