@@ -9,11 +9,11 @@
 |           Power of Two  |         🟢          |                    ✅              |       ✅                 |      ✅           |     ❌     |
 |           Power of Three|         🟢          |                    ✅              |               ✅         |          ✅       |      ❌     |
 |           Power of Four |         🟢          |                    ✅              |               ✅         |           ✅      |       ❌    |
+|  Number of 1 Bits       |        🟢           |                    ✅              |            ✅            |           ❌      |      ❌      |
 |           FizzBuzz      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |  Palindrome Number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌     |
 |     Remove Element      |        🟢           |                    ❌              |            ✅            |           ❌      |        ❌    |
 |  Search Insert Position |        🟢           |                    ❌              |            ✅            |           ❌      |      ❌      |
-|  Number of 1 Bits       |        🟢           |                    ✅              |            ✅            |           ❌      |      ❌      |
 |           Atoi          |           🟠        |                    ❌              |            ✅            |           ❌      |          ❌    |
 |    Find the Index       |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
 |    Rotate Array         |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
