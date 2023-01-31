@@ -11,6 +11,7 @@
 |           Power of Four |         🟢          |                    ✅              |               ✅         |           ✅      |       ❌    |
 |  Number of 1 Bits       |        🟢           |                    ✅              |            ✅            |           ❌      |      ❌      |
 |  Binary Number with Alternating Bits|        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
+| Altering Digit Sum      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |           FizzBuzz      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |  Palindrome Number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌     |
 |     Remove Element      |        🟢           |                    ❌              |            ✅            |           ❌      |        ❌    |
