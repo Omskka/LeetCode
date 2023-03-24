@@ -17,8 +17,8 @@
 |  Palindrome Number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌     |
 |     Remove Element      |        🟢           |                    ❌              |            ✅            |           ❌      |        ❌    |
 |  Search Insert Position |        🟢           |                    ❌              |            ✅            |           ❌      |      ❌      |
+|    Find the Index       |          🟢         |                    ❌              |            ✅            |           ❌      |        ❌      |
 |           Atoi          |           🟠        |                    ❌              |            ✅            |           ❌      |          ❌    |
-|    Find the Index       |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
 |    Rotate Array         |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
 |    Container With Most Water         |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
 
