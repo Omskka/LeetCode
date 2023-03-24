@@ -20,6 +20,7 @@
 |           Atoi          |           🟠        |                    ❌              |            ✅            |           ❌      |          ❌    |
 |    Find the Index       |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
 |    Rotate Array         |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
+|    Container With Most Water         |          🟠         |                    ❌              |            ✅            |           ❌      |        ❌      |
 
 
  *🟢 -> EASY <br>
