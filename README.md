@@ -11,6 +11,7 @@
 |           BinarySearch  |          🟢         |                    ✅              |            ✅            |        ❌         |     ❌     |
 |  Number of 1 Bits       |        🟢           |                    ✅              |            ✅            |           ❌      |      ❌      |
 |  Binary Number with Alternating Bits|        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
+|  Running Sum of 1d Array|        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 | Altering Digit Sum      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 | single number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |           FizzBuzz      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
