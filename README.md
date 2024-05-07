@@ -13,6 +13,7 @@
 |  Binary Number with Alternating Bits|        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |  Running Sum of 1d Array|        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 | Altering Digit Sum      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
+| Reverse Linked List      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 | single number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |           FizzBuzz      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |  Palindrome Number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌     |
