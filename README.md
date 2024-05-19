@@ -14,7 +14,7 @@
 |  Running Sum of 1d Array|        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 | Altering Digit Sum      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 | Reverse Linked List      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
-| Middle of the Linked List      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
+| Middle of the Linked List      |        🟢           |                    ❌              |            ✅            |           ❌      |       ✅   |
 | single number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |           FizzBuzz      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌   |
 |  Palindrome Number      |        🟢           |                    ❌              |            ✅            |           ❌      |       ❌     |
